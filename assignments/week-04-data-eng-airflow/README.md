@@ -11,7 +11,7 @@ Walmart, the retail giant that operates a chain of hypermarkets, wants to unders
 
 ##  ☑️ Learning Objectives
 
-At the end of this session, you will know how to
+At the end of this session, you will know conda how to
 
 1. Manipulate data of different types using `pandas`
 2. Visualize data with `matplotlib` and `seaborn` to extract insights 
