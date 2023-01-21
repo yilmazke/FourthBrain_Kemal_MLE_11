@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=EuBBz3bI-aA
+https://www.youtube.com/watch?v=PaFPbb66DxQ
+
+https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126?language=en_US
+
+https://www.statlearning.com
+
+Sharing an old aha moment. A very old video from good old G.Strang  here https://youtu.be/osh80YCg_GM.
+By far the most elegant way to remember the best solution to Ax=b where it is not possible (b is not part of the column space of A) … is simply to solve Ax=p where p is the projection of b on the column space of A… No need to remember the solution (AtAx=At.b so x = (AtA)-1.Atb)
+
+a straight line Linear fit to the log odds…   https://www.youtube.com/watch?v=BfKanl1aSG0
+
+https://arxiv.org/abs/2208.09727
+
+https://www.tylervigen.com/spurious-correlations
+
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html
+The SGD version includes "learning_rate", which relates to the kind of schedule to use for the learning rate. "eta0" is the parameter that we will use to set the initial learning rate.
+
+https://upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg
+
+XGBoost
+https://xgboost.readthedocs.io/en/stable/
+

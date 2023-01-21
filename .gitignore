@@ -128,6 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#word documents for details
+#word and text documents for details
 .doc
 .docx
+.txt
