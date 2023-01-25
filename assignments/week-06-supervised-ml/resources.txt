@@ -22,3 +22,11 @@ https://upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg
 XGBoost
 https://xgboost.readthedocs.io/en/stable/
 
+https://rascore.streamlit.app/
+
+https://shap.readthedocs.io/en/latest/genomic_examples.html
+
+https://github.com/slundberg/shap
+
+TPOT: http://epistasislab.github.io/tpot/
+
