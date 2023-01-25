@@ -30,3 +30,6 @@ https://github.com/slundberg/shap
 
 TPOT: http://epistasislab.github.io/tpot/
 
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+
+https://langchain.readthedocs.io/en/latest/index.html
