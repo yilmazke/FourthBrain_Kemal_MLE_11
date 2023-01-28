@@ -50,3 +50,11 @@ https://bjlkeng.github.io/posts/probabilistic-interpretation-of-regularization/ 
 
 https://www.tensorflow.org/datasets/keras_example --> Training a neural network on MNIST with Keras
 
+https://www.tensorflow.org/tutorials/quickstart/beginner --> Tensorflow exercise for beginners
+
+https://ml.gatech.edu/leadership/polo-chau
+
+https://poloclub.github.io/cnn-explainer/ --> What is a Convolutional neural network
+
+https://poloclub.github.io
+
