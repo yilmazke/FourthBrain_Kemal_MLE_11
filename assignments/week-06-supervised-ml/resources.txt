@@ -33,3 +33,20 @@ TPOT: http://epistasislab.github.io/tpot/
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
 
 https://langchain.readthedocs.io/en/latest/index.html
+
+
+Weeok 07 Shared links;
+https://arxiv.org/abs/2104.13478 --> Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
+
+https://www.sciencedirect.com/science/article/abs/pii/0893608092900128 --> Kolmogorov's theorem and multilayer neural networks
+
+https://www.sciencedirect.com/science/article/abs/pii/0893608089900038 --> On the approximate realization of continuous mappings by neural networks
+
+https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/13/lecture-13.pdf --> Lecture 13: Simple Linear Regression in Matrix Format
+
+https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.26911&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false --> Tensorflow playground
+
+https://bjlkeng.github.io/posts/probabilistic-interpretation-of-regularization/ --> A Probabilistic Interpretation of Regularization
+
+https://www.tensorflow.org/datasets/keras_example --> Training a neural network on MNIST with Keras
+
