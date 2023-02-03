@@ -58,3 +58,5 @@ https://poloclub.github.io/cnn-explainer/ --> What is a Convolutional neural net
 
 https://poloclub.github.io
 
+https://www.tensorflow.org/tutorials/keras/regression
+

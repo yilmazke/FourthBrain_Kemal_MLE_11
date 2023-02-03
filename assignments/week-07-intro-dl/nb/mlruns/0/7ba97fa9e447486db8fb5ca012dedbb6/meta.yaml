@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yilmazke/FourthBrain/MLE11/code/FourthBrain_Kemal_MLE_11/assignments/week-07-intro-dl/nb/mlruns/0/7ba97fa9e447486db8fb5ca012dedbb6/artifacts
+end_time: 1675385190238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ba97fa9e447486db8fb5ca012dedbb6
+run_name: whimsical-foal-916
+run_uuid: 7ba97fa9e447486db8fb5ca012dedbb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675385185610
+status: 3
+tags: []
+user_id: yilmazke

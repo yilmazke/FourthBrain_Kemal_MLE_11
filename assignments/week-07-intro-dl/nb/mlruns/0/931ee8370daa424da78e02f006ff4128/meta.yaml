@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yilmazke/FourthBrain/MLE11/code/FourthBrain_Kemal_MLE_11/assignments/week-07-intro-dl/nb/mlruns/0/931ee8370daa424da78e02f006ff4128/artifacts
+end_time: 1675385847817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 931ee8370daa424da78e02f006ff4128
+run_name: grandiose-shark-625
+run_uuid: 931ee8370daa424da78e02f006ff4128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675385842861
+status: 3
+tags: []
+user_id: yilmazke
