@@ -60,3 +60,27 @@ https://poloclub.github.io
 
 https://www.tensorflow.org/tutorials/keras/regression
 
+
+Week 08 Shared links;
+https://towardsdatascience.com/t-distributed-stochastic-neighbor-embedding-t-sne-bb60ff109561
+
+https://www.youtube.com/watch?v=FgakZw6K1QQ --> StatQuest: Principal Component Analysis (PCA), Step-by-Step
+
+https://fouryears.eu/2016/11/23/what-is-the-covariance-matrix/ --> What is the Covariance Matrix?
+The covariance matrix is a square matrix that represents the covariance between multiple variables. It is used to measure the linear relationship between pairs of variables in a data set, and the values in the matrix indicate the strength and direction of this relationship. The covariance matrix is a fundamental tool in statistics, machine learning, and other fields where data analysis is required.
+
+how to calculate the eigenvectors and eigenvalues of the covariance matrix
+    The eigenvectors and eigenvalues of a covariance matrix can be calculated using the following steps:
+
+        1.Compute the covariance matrix: The covariance matrix is a square matrix that contains the covariance between each pair of variables in the data set.
+        2.Find the eigenvalues and eigenvectors of the covariance matrix: To do this, you need to solve the eigenvalue equation Av = λv, where A is the covariance matrix, λ is the eigenvalue, and v is the eigenvector. The eigenvalue equation can be solved using linear algebra techniques, such as the characteristic equation, to find the eigenvalues and eigenvectors.
+        3.Normalize the eigenvectors: The eigenvectors should be normalized so that their length is equal to one. This can be done by dividing each eigenvector by its length.
+        4.Sort the eigenvectors and eigenvalues: The eigenvectors and eigenvalues should be sorted in descending order based on the magnitude of the eigenvalues. This will ensure that the first eigenvector corresponds to the largest eigenvalue, the second eigenvector corresponds to the second largest eigenvalue, and so on.
+    Once you have calculated the eigenvectors and eigenvalues of the covariance matrix, you can use them to perform various data analysis tasks, such as principal component analysis (PCA), dimensionality reduction, and feature extraction.
+
+https://arxiv.org/pdf/2004.05387.pdf --> Vintage Factor Analysis with Varimax Performs Statistical Inference
+
+https://www.robots.ox.ac.uk/~davidc/pubs/tt2015_dac2.pdf --> "The Humble Gaussian Distribution” by David J.C. MacKay 
+
+https://www.youtube.com/watch?v=PFDu9oVAE-g --> Eigenvectors and eigenvalues
+
