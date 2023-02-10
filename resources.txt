@@ -84,3 +84,10 @@ https://www.robots.ox.ac.uk/~davidc/pubs/tt2015_dac2.pdf --> "The Humble Gaussia
 
 https://www.youtube.com/watch?v=PFDu9oVAE-g --> Eigenvectors and eigenvalues
 
+https://scikit-learn.org/stable/modules/clustering.html#k-means --> clustering (k-means)
+
+https://www.youtube.com/watch?v=4b5d3muPQmA&ab_channel=StatQuestwithJoshStarmer --> k-means clutering
+
+https://sebastianraschka.com/Articles/2014_python_lda.html#principal-component-analysis-vs-linear-discriminant-analysis --> Principal Component Analysis vs. Linear Discriminant Analysis
+
+https://yangxiaozhou.github.io/assets/2019-10-02/lda_vs_pca.png --> LDA vs PCA
