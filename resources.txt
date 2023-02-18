@@ -91,3 +91,43 @@ https://www.youtube.com/watch?v=4b5d3muPQmA&ab_channel=StatQuestwithJoshStarmer 
 https://sebastianraschka.com/Articles/2014_python_lda.html#principal-component-analysis-vs-linear-discriminant-analysis --> Principal Component Analysis vs. Linear Discriminant Analysis
 
 https://yangxiaozhou.github.io/assets/2019-10-02/lda_vs_pca.png --> LDA vs PCA
+
+Week09
+CV is one of those domains where you need to pick your application - and then full send on it. So if you're interest is in imagine classification, or object detection, or semseg - choose that thing and then start working with it. Develop projects in it. Build with it. Try different architectures, deploy them, get a feel for what each does. Rinse repeat until you know where you want to go next.
+
+https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/
+
+https://en.wikipedia.org/wiki/Sobel_operator
+
+https://en.wikipedia.org/wiki/Canny_edge_detector
+
+https://amitness.com/2020/02/illustrated-self-supervised-learning/#2-image-superresolution
+
+https://arxiv.org/abs/2209.14262
+
+https://huggingface.co/eugenesiow/pan-bam
+
+https://arxiv.org/pdf/2002.12530.pdf
+
+(The conv. layers are converting the entire image - window by window - into a "smaller" image, enhancing particularly useful features and diminishing particularly not useful features. So your kernels slide over the whole image - window by window)
+
+https://profgmedia.com/no-mercy-no-malice/
+
+https://github.com/ultralytics/ultralytics
+
+https://hasty.ai/docs/mp-wiki/metrics/iou-intersection-over-union
+
+https://www.youtube.com/@DigitalSreeni
+
+https://www.youtube.com/watch?v=wySUxZN_KbM --> Adverserial learn
+
+https://towardsdatascience.com/understand-your-algorithm-with-grad-cam-d3b62fce353#
+
+
+Week 10
+https://modelcards.withgoogle.com/about
+aishgrt@gmail.com
+
+https://lxml.de/
+
+https://arxiv.org/pdf/1301.3781.pdf
