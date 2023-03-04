@@ -163,3 +163,11 @@ https://www.tensorflow.org/api_docs/python/tf/keras/utils/pad_sequences/
 
 https://www.tensorflow.org/api_docs/python/tf/keras/layers/MultiHeadAttention
 
+https://arxiv.org/abs/2301.11305v1
+
+This 2 pages from HuggingFace free course tells which models are trained on masked/corrupted sentences - so called Encoder models (Bert , Albert, )  and Decoder models (CTRL, GPTs) trained on predicting next word on previous. 
+https://huggingface.co/course/chapter1/5?fw=pt and https://huggingface.co/course/chapter1/6?fw=pt
+
+ the nice summary table https://huggingface.co/course/chapter1/9?fw=pt
+
+ 
