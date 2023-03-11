@@ -170,4 +170,8 @@ https://huggingface.co/course/chapter1/5?fw=pt and https://huggingface.co/course
 
  the nice summary table https://huggingface.co/course/chapter1/9?fw=pt
 
- 
+
+ Week12
+
+https://docs.google.com/spreadsheets/d/1-_GCYr-YU5ScUVoskLcsTJaDUM7s9X8D/edit#gid=1739286917 --> Capstone projects github repos
+
