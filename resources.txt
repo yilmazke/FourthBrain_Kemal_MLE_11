@@ -215,3 +215,17 @@ https://www.infoq.com/news/2022/12/linux-6-1-rust/
 
 https://www.nature.com/articles/s42256-020-0218-x
 
+https://www.infoq.com/news/2021/12/huyen-realtime-ml/
+
+https://www.shreya-shankar.com/rethinking-ml-monitoring-1/
+
+https://towardsdatascience.com/real-time-stream-processing-for-machine-learning-at-scale-with-spacy-kafka-seldon-core-6360f2fedbe
+
+draw.io
+
+https://app.diagrams.net/
+
+https://machinelearningknowledge.ai/
+
+replicate.com
+
