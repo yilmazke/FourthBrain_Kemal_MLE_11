@@ -175,3 +175,43 @@ https://huggingface.co/course/chapter1/5?fw=pt and https://huggingface.co/course
 
 https://docs.google.com/spreadsheets/d/1-_GCYr-YU5ScUVoskLcsTJaDUM7s9X8D/edit#gid=1739286917 --> Capstone projects github repos
 
+
+
+Week13
+https://www.smarthomebeginner.com/
+
+https://helm.sh/ -->  YAML editor
+
+https://www.youtube.com/watch?v=H06qrNmGqyE --> This week’s announcement / pre-reading. 
+
+https://www.youtube.com/watch?v=unFVfqj9cQ8&list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb&ab_channel=AmazonWebServices --> This playlist is just a bunch of awesome companies walking through their architectures - and it's a super valuable resource that shows real companies talking about what they chose, why, and what kinds of loads they have!
+
+https://opencontainers.org/
+
+https://sylabs.io/singularity-pro/
+
+https://youtu.be/jG2x6EH4zn0
+
+https://github.com/pola-rs/polars/
+
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+
+https://www.slant.co/topics/2436/~best-docker-image-private-registries
+
+https://docs.docker.com/engine/swarm/secrets/ --> Some details from Docker for how to handle some sensitive data, as well.
+
+https://docs.docker.com/engine/reference/commandline/tag/
+
+https://docs.docker.com/engine/install/linux-postinstall/
+
+sudo usermod -aG docker $USER
+
+Week14
+https://github.com/rancher-sandbox/rancher-desktop/
+
+https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html
+
+https://www.infoq.com/news/2022/12/linux-6-1-rust/
+
+https://www.nature.com/articles/s42256-020-0218-x
+

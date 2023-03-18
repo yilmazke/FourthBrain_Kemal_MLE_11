@@ -180,7 +180,7 @@ If you don't already have one, make an account on [Github](https://github.com/)
   4. Copy the contents of the public key that we will share with GitHub. 
 
   
-  * <strong>For WSL:</strong>
+  * <strong>For WSL:</strong> 
 
   ```console
   clip.exe < ~/.ssh/id_rsa.pub 
